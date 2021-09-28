@@ -1,3 +1,1 @@
-# React TS, cypress, scss template
-
-![logo](https://user-images.githubusercontent.com/32037658/135164946-eaa8ed73-62bc-4093-87c4-58b9e0c22178.png)
+![cover (1)](https://user-images.githubusercontent.com/32037658/135165813-3c03c822-9f20-4a35-91e2-90bf5c43fbbd.png)
