@@ -1,2 +1,1 @@
-# react-ts-template
-A base react typescript, scss, styled components project
+# React TS, cypress, scss, styled components template
